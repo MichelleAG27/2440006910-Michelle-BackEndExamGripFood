@@ -1,0 +1,14 @@
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\GripFoodExam.Entities.csproj.AssemblyReference.cache
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\GripFoodExam.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\GripFoodExam.Entities.AssemblyInfoInputs.cache
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\GripFoodExam.Entities.AssemblyInfo.cs
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\GripFoodExam.Entities.csproj.CoreCompileInputs.cache
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\bin\Debug\net6.0\GripFoodExam.Entities.deps.json
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\bin\Debug\net6.0\GripFoodExam.Entities.runtimeconfig.json
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\bin\Debug\net6.0\GripFoodExam.Entities.dll
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\bin\Debug\net6.0\GripFoodExam.Entities.pdb
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\GripFoodExam.Entities.dll
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\refint\GripFoodExam.Entities.dll
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\GripFoodExam.Entities.pdb
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\GripFoodExam.Entities.genruntimeconfig.cache
+D:\Accelist\Exam\EXAM FRONTEND\BackEndExamGripFood\GripFoodExam.Entities\obj\Debug\net6.0\ref\GripFoodExam.Entities.dll
